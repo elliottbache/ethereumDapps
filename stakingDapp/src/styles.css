@@ -1,0 +1,7 @@
+.table-center{
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+  margin: auto
+}
